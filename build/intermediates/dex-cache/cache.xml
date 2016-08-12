@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha6/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="683e0c40e56227acb71bcd29fee25fe417ae734e">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha6_35b2985d429d2cab604e01ed8f7f9fa3c15df7d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_9608b8f515165cbc97a89ee58eea71194d78816d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="887318668878d14524268b8fb9402bdf246de43a">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_dc7fafb27060d8b7c9b5750de6dfebbfa78b5286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_64596aaeff9f19dca76a9ca196c2aef8408fc776/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_2c6db5ec5ae6e21df5adb660bb77837e16ae7985/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha6/constraint-layout-solver-1.0.0-alpha6.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="539cfaee6c35087cdebad7e3a3bc0f52d1261d93">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha6_98caa05ea2206886621f3fe397fd1f887baf7763/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="24070f0939474a6e1cf20cac08433ef08d5c37ce">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a663a089130f81460dbaf6bb46840a43c59b0ddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_ed60efdfff2386d87d4000de07ed608d77321cf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_411b571363b0f52992b94d168cd49fa6b3fa05e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/chrwue/Documents/NotificationAdapterTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_33493402953587015968e5002183a8406cd2256a/classes.dex" />
+    </item>
+
+</items>

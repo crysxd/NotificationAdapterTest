@@ -1,0 +1,11 @@
+<resources>
+    <string-array name="reminder_notifications">
+        <item>15 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1.5 hour before</item>
+        <item>5 hours before</item>
+        <item>8 hours before</item>
+        <item>1 day before</item>
+    </string-array>
+</resources>
