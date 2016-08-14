@@ -65,7 +65,7 @@ public class ReminderNotificationsAdapter extends BaseAdapter implements Compoun
     }
 
     @Override
-    public Object getItem(int i) {
+    public String getItem(int i) {
         return this.mItems[i];
 
     }
@@ -88,7 +88,7 @@ public class ReminderNotificationsAdapter extends BaseAdapter implements Compoun
 
         // Prepare text view
         TextView tv = (TextView) v.findViewById(android.R.id.text1);
-        tv.setText((CharSequence) this.getItem(position));
+        tv.setText(this.getItem(position));
         tv.setEnabled(this.isEnabled(position));
 
         // Prepare checkbox
